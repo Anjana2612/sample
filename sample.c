@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() 
 {
-    int a, b, sum;
+    int a, b, max;
     printf(“Enter the first number: “);
     scanf(“%d”, &a);
     printf(“Enter the second number: “);
